@@ -19,8 +19,6 @@ a self-hosted home hub on a Raspberry Pi, and web apps with **Laravel** and **Nu
 | 🎮 **[Lounge](https://github.com/tguillain/Lounge)** | Your Steam and Epic library on a console-style home screen, made for the couch and a controller. ~2.5 MB installer. | Tauri · Rust · Svelte |
 | 🗄️ **[SSHelf](https://github.com/tguillain/SSHelf)** | Your SSH servers, neatly shelved: a desktop SSH client with tabs, environments and one-click connections. 2.4 MB, ~30 MB of RAM. | Tauri · Rust (russh) · TypeScript |
 | 🏠 **[Hestia](https://github.com/tguillain/hestia)** | Home automation hub for Raspberry Pi: Govee and Matter lights, Apple Home bridge, Freebox, visual automations, MCP access for AI. | Rust |
-| ⛽ **[EcoFuel](https://github.com/tguillain/EcoFuel)** | Find nearby gas stations and compare fuel prices, with favorites. | Flutter · Dart |
-| 🧪 **[Nuxt-Claude-Skills](https://github.com/tguillain/Nuxt-Claude-Skills)** | Claude Code skills that halved the slowest CI shard of a ~450-file Nuxt test suite (35.9 → 17.9 min). | Nuxt · Vitest |
 
 ## Toolbox
 
